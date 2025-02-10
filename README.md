@@ -2,7 +2,7 @@
 Plots numbers to a barplot. 
 
 ## Installation
-`pip install barplot`
+`pip install barplotme`
 If there are missing dependencies, install them using pip. Maybe you learn something along the way. After all, we're are here to learn, aren't we?
 
 ## Usage
